@@ -1,0 +1,31 @@
+﻿第一：
+
+(1)集合
+	System.Collections
+	IEnumerable IEnumerator IList IDictionary
+	CollectionBase DictionaryBase
+	
+(2)Delegate
+
+	public delagate void Notify() ;
+
+(3)XML文件读写  序列化与反序列化
+
+(4)内存管理 IDisposable
+
+(5)FileIO
+	Stream  FileStream  StreamReader StreamWriter   IFormmater  BinaryFormatter(序列化与反序列化) Serializable NonSerialized
+
+(6)多线程
+
+(7)网络编程（Socket）
+
+-------------------------------------------------------------------------------
+第二：Windows 应用编程
+	
+	
+第三：ASP.Net ADO.Net
+
+
+
+第四：MVC框架
