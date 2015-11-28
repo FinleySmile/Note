@@ -6,7 +6,6 @@
 	CollectionBase DictionaryBase
 	
 (2)Delegate
-
 	public delagate void Notify() ;
 
 (3)XML文件读写  序列化与反序列化
@@ -20,6 +19,12 @@
 
 (7)网络编程（Socket）
 
+
+需补充知识：
+(1) 泛型编程
+(2) IComparable IComparer<T>
+
+
 -------------------------------------------------------------------------------
 第二：Windows 应用编程
 	
@@ -29,3 +34,5 @@
 
 
 第四：MVC框架
+
+
